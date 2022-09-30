@@ -1,1 +1,1 @@
-# wetu-graphql
+# wetu-graphql-api
