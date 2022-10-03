@@ -1,4 +1,5 @@
 #Graphql API for Wetu (‘Our’ SM Platform)
+-----------------------------------------
 This is the Graphql version of https://github.com/abu-jeylani/wetu-rest-api
 
 ## Requirements
